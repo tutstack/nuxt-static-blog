@@ -13,6 +13,9 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@nuxtjs/dotenv": "^1.1.0",
+    "@nuxtjs/markdownit": "^1.2.0",
+    "contentful": "^5.1.3",
     "nuxt": "^1.0.0"
   },
   "devDependencies": {
